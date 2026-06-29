@@ -1,1 +1,1 @@
-# gestionefarmaci-privacy
+# gestorefarmaci-privacy
